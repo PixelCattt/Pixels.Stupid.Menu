@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Flummi's Stupid Menu</h1>
+  <h1>Pixel's Stupid Menu</h1>
 
   My Modified Version of <b>ii's Stupid Menu!</b>
 
